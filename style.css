@@ -228,7 +228,11 @@ article {
   height: 3vh;
 }
 
-.footer-contact{
-  background-color: black;
+footer {
+  width: 100vw;
+  height: 23vh;
   display: flex;
+  align-items: center;
+  gap: 0.7em;
+  background-color: rgb(97, 97, 97);
 }
