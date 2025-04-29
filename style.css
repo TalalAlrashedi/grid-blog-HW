@@ -335,6 +335,10 @@ article {
   .item3 h3 {
     text-align: center;
   }
+.mini-images img{
+  height: 5vh;
+  width: 5%;
+  }
 }
 @media only screen and (min-width: 768px) and (max-width: 991) {
   .container {
